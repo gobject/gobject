@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi, I'm Brayden 👋
 
-<!--
-**gobject/gobject** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a Computer Science BA student at Florida Atlantic University, passionate about web development, modern design, and coding practical solutions.
 
-Here are some ideas to get you started:
+## 🔹 Skills
+- **Languages:** Python, JavaScript  
+- **Web:** HTML, CSS, React  
+- **Tools:** Git, GitHub, Excel, Outlook  
+- **Concepts:** Data Structures, Algorithms, Logic Design, Cybersecurity basics  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔹 Projects
+- [Portfolio Website](https://gobject.github.io/brayden-portfolio) – Production-ready, modern, responsive site  
+- Other projects – Coming soon!  
+
+## 🔹 Connect
+- [LinkedIn](https://www.linkedin.com/in/braydenwaynecharbonneau/)  
+- Email: braydencan@gmail.com  
+
+---
+
+> Focused on clean, practical solutions. Exploring and experimenting with ideas in tech.
